@@ -1,0 +1,31 @@
+
+.vs/DataHandler ITVT/v16/.suo
+.vs/DataHandler ITVT/v16/Browse.VC.db
+.vs/DataHandler ITVT/v16/Browse.VC.db-shm
+.vs/DataHandler ITVT/v16/Browse.VC.db-wal
+.vs/DataHandler ITVT/v16/Browse.VC.opendb
+.vs/DataHandler ITVT/v16/ipch/AutoPCH/1bba2deace632886/MAIN.ipch
+.vs/DataHandler ITVT/v16/ipch/AutoPCH/3f114705c36f9900/DATAHANDLERTEMPLATES.ipch
+.vs/DataHandler ITVT/v16/ipch/AutoPCH/f2b2c9df8e1f47f7/DATAHANDLER.ipch
+*.sln
+DataHandler ITVT.vcxproj
+DataHandler ITVT.vcxproj.filters
+DataHandler ITVT.vcxproj.user
+Debug/DataHandler ITVT.Build.CppClean.log
+Debug/DataHandler ITVT.exe
+Debug/DataHandler ITVT.exe.recipe
+Debug/DataHandler ITVT.ilk
+Debug/DataHandler ITVT.log
+Debug/DataHandler ITVT.pdb
+Debug/DataHandler ITVT.tlog/CL.command.1.tlog
+Debug/DataHandler ITVT.tlog/CL.read.1.tlog
+Debug/DataHandler ITVT.tlog/CL.write.1.tlog
+Debug/DataHandler ITVT.tlog/DataHandler ITVT.lastbuildstate
+Debug/DataHandler ITVT.tlog/link.command.1.tlog
+Debug/DataHandler ITVT.tlog/link.read.1.tlog
+Debug/DataHandler ITVT.tlog/link.write.1.tlog
+Debug/DataHandler ITVT.vcxproj.FileListAbsolute.txt
+Debug/DataHandler.obj
+Debug/main.obj
+Debug/vc142.idb
+Debug/vc142.pdb
